@@ -1,6 +1,6 @@
 <body>
     <header>
-        <h1>Protein Engineering and Structural Genomics Lab</h1>
+        <h1>Protein Engineering and Structural Genomics</h1>
     </header>
     <nav>
         <a href="#research">Research</a>
